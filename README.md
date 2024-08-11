@@ -71,7 +71,7 @@ This project, named "One Box", is a Next.js application that shows emails and he
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abhijha910/reachinbox-frontend-assignment.git
+   git clone https://github.com/abhijha910/reachinbox-frontend-dev-assignment.git
    cd reachinbox-frontend-assignment
    ```
 

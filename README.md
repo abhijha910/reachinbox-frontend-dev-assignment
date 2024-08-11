@@ -1,6 +1,7 @@
 # reachinbox-frontend-dev-assignment
-# ReachInbox - One Box
+Deployed Link :
 
+https://reachinbox-seven.vercel.app/
 ## Overview
 
 ReachInbox is a revolutionary AI-driven platform transforming cold outreach. It's an all-in-one solution for businesses to effortlessly find, enrich, and engage high-intent leads using multi-channel outreach across Twitter, LinkedIn, email, and phone. ReachInbox acts as your AI-powered growth team, continuously generating top-tier leads and enhancing large-scale cold email marketing campaigns.
@@ -70,8 +71,8 @@ This project, named "One Box", is a Next.js application that shows emails and he
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abhijha910/onebox.git
-   cd onebox
+   git clone https://github.com/abhijha910/reachinbox-frontend-assignment.git
+   cd reachinbox-frontend-assignment
    ```
 
 2. Install dependencies:
